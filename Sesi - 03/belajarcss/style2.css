@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+.box{
+    background: blueviolet;
+    height: 200px;
+    width: 300px;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+
+.box-dua{
+    background: greenyellow;
+    height: 100px;
+    width: 600px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
